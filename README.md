@@ -1,5 +1,9 @@
 <h>juego del amigo secreto</h>
+
+
 Challenge para probar mis conocimientos en JS
+
+
 INSTRUCCIONES: 
 1.- debes ingresar los nombres de tus amigos
 2.- no está permitido ingresar un nombre como blanco (sin caracteres)
